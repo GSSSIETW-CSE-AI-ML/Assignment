@@ -18,7 +18,7 @@
 | Field | Details |
 | :--- | :--- |
 | 👤 **Name** | Deepthi TR |
-| 🆔 **USN** | 4GW24CI02 |
+| 🆔 **USN** | 4GW24CI402 |
 | 🏛️ **College** | GSSSIETW |
 | 📚 **Department** | CSE - AI & ML |
 | 📖 **Subject** | Deep Learning |
