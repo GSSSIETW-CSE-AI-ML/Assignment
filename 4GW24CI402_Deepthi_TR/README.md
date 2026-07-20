@@ -38,7 +38,7 @@
 ## 📂 Repository Structure
 
 ```text
-└── 4GW24CI02_Deepthi_TR/
+└── 4GW24CI402_Deepthi_TR/
     ├── README.md            # Overview of the assignment (this file)
     └── DL_Assignment1.md    # Complete assignment content & detailed study
 ```
