@@ -102,15 +102,13 @@ Markdown
 
 </div>
 📊 Assignment Progress
-text
 
 Research     ████████████████████  100%
 Content      ████████████████████  100%
 Formatting   ████████████████████  100%
 Submission   ████████████████████  100%
-🌟 Sample Code Snippet
-Python
 
+🌟 Sample Code Snippet
 # CNN Model for Medical Diagnosis
 import tensorflow as tf
 from tensorflow.keras import layers, models
@@ -121,14 +119,17 @@ model = models.Sequential([
     layers.Flatten(),
     layers.Dense(1, activation='sigmoid')
 ])
+
 🔗 Useful References
 🌐 Google DeepMind Health
 📘 Deep Learning Book – Ian Goodfellow
 🎓 TensorFlow Tutorials
 📰 Nature Medicine – AI in Healthcare
+
+
 🙏 Acknowledgment
 I sincerely thank my faculty and the GSSSIETW CSE-AI-ML Department
-for guiding the assignment.
+for guiding this assignment.
 
 <div align="center">
 ⭐ Thank You for Visiting My Repository! ⭐
@@ -136,5 +137,4 @@ Made with ❤️ by Deepthi TR
 
 Visitors
 Made With Love
-
-</div> ```
+```
