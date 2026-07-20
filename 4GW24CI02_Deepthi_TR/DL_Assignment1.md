@@ -2,7 +2,7 @@
 ## Top 10 Real World Applications of Deep Learning
 
 **Name:** Deepthi TR  
-**USN:** 4GW24CI402  
+**USN:** 4GW24CI02  
 **Subject:** Deep Learning  
 **Assignment:** 1  
 

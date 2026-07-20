@@ -16,7 +16,7 @@
 ## 👩‍🎓 Student Information
 
 | Field | Details |
-|-------|---------|
+| :--- | :--- |
 | 👤 **Name** | Deepthi TR |
 | 🆔 **USN** | 4GW24CI02 |
 | 🏛️ **College** | GSSSIETW |
@@ -28,10 +28,6 @@
 ---
 
 ## 📌 About This Assignment
-📁 4GW24CI02_Deepthi_TR/
-│
-├── 📄 README.md → Overview of the assignment
-└── 📄 DL_Assignment1.md → Complete assignment content
 
 > This repository contains my **Deep Learning Assignment 1** submission.  
 > The assignment covers the **Top 10 Real World Applications of Deep Learning**  
@@ -41,32 +37,23 @@
 
 ## 📂 Repository Structure
 
+```text
+└── 4GW24CI02_Deepthi_TR/
+    ├── README.md            # Overview of the assignment (this file)
+    └── DL_Assignment1.md    # Complete assignment content & detailed study
+```
+
 ---
 
 ## 🎯 Top 10 Applications Covered
 
-<table>
-<tr>
-<td>
-
-1. 🏥 Medical Diagnosis  
-2. 🚗 Self-Driving Cars  
-3. 👁️ Computer Vision  
-4. 💬 Natural Language Processing  
-5. 🎙️ Speech Recognition  
-
-</td>
-<td>
-
-6. 💳 Fraud Detection  
-7. 🎬 Recommendation Systems  
-8. 💊 Drug Discovery  
-9. ♟️ Game Playing AI  
-10. 🎭 Deepfake Generation  
-
-</td>
-</tr>
-</table>
+| No. | Application | No. | Application |
+| :--- | :--- | :--- | :--- |
+| 1 | 🏥 Medical Diagnosis | 6 | 💳 Fraud Detection |
+| 2 | 🚗 Self-Driving Cars | 7 | 🎬 Recommendation Systems |
+| 3 | 👁️ Computer Vision | 8 | 💊 Drug Discovery |
+| 4 | 💬 Natural Language Processing | 9 | ♟️ Game Playing AI |
+| 5 | 🎙️ Speech Recognition | 10 | 🎭 Deepfake Generation |
 
 ---
 
@@ -80,7 +67,7 @@ Deep Learning has revolutionized healthcare by enabling early disease detection 
 - 📊 **RNN Models** for Patient Data Analysis  
 - 🩺 **Transformer Models** for Clinical Text  
 
-👉 Full details available in [`DL_Assignment1.md`](./DL_Assignment1.md)
+👉 Full details are available in the [DL_Assignment1.md](./DL_Assignment1.md) file.
 
 ---
 
@@ -92,52 +79,68 @@ Deep Learning has revolutionized healthcare by enabling early disease detection 
 + Explored famous AI systems like Google DeepMind
 + Studied advantages and challenges of DL in healthcare
 + Practiced Markdown formatting on GitHub
+```
 
-```
-```
-🛠️ Tools & Technologies
+---
+
+## 🛠️ Tools & Technologies
+
 <div align="center">
-TensorFlow
-Keras
-Python
-GitHub
-Markdown
-```
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+
 </div>
-📊 Assignment Progress
 
-Research     ████████████████████  100%
-Content      ████████████████████  100%
-Formatting   ████████████████████  100%
-Submission   ████████████████████  100%
+---
 
-🌟 Sample Code Snippet
+## 📊 Assignment Progress
+
+* **Research** `████████████████████` 100%
+* **Content** `████████████████████` 100%
+* **Formatting** `████████████████████` 100%
+* **Submission** `████████████████████` 100%
+
+---
+
+## 🌟 Sample Code Snippet
+
+```python
 # CNN Model for Medical Diagnosis
 import tensorflow as tf
 from tensorflow.keras import layers, models
 
 model = models.Sequential([
-    layers.Conv2D(32, (3,3), activation='relu'),
+    layers.Conv2D(32, (3,3), activation='relu', input_shape=(224, 224, 3)),
     layers.MaxPooling2D(2,2),
     layers.Flatten(),
     layers.Dense(1, activation='sigmoid')
 ])
+```
 
-🔗 Useful References
-🌐 Google DeepMind Health
-📘 Deep Learning Book – Ian Goodfellow
-🎓 TensorFlow Tutorials
-📰 Nature Medicine – AI in Healthcare
+---
 
+## 🔗 Useful References
 
-🙏 Acknowledgment
-I sincerely thank my faculty and the GSSSIETW CSE-AI-ML Department
-for guiding this assignment.
+- 🌐 [Google DeepMind Health](https://www.deepmind.com/)
+- 📘 [Deep Learning Book – Ian Goodfellow](https://www.deeplearningbook.org/)
+- 🎓 [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+- 📰 [Nature Medicine – AI in Healthcare](https://www.nature.com/nm/)
+
+---
+
+## 🙏 Acknowledgment
+
+I sincerely thank my faculty and the GSSSIETW CSE-AI-ML Department for guiding this assignment.
+
+<br>
 
 <div align="center">
-⭐ Thank You for Visiting My Repository! ⭐
-Made with ❤️ by Deepthi TR
 
-Visitors
-Made With Love
-```
+### ⭐ Thank You for Visiting My Repository! ⭐
+Made with ❤️ by **Deepthi TR**
+
+</div>
