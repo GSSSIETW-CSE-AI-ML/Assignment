@@ -92,6 +92,9 @@ Deep Learning has revolutionized healthcare by enabling early disease detection 
 + Explored famous AI systems like Google DeepMind
 + Studied advantages and challenges of DL in healthcare
 + Practiced Markdown formatting on GitHub
+
+```
+```
 🛠️ Tools & Technologies
 <div align="center">
 TensorFlow
