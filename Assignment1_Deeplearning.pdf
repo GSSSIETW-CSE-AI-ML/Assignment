@@ -1,0 +1,276 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4519
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 785.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Deep Learning in Full Stack Web Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 755.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Top 10 Technologies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.95276 548.5433 cm
+q
+.827451 .827451 .827451 rg
+n 0 201 439.3701 -21 re f*
+0 0 0 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 188 Tm (No) Tj T* ET
+BT 1 0 0 1 48.51969 188 Tm (Technology) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 167 Tm (1) Tj T* ET
+BT 1 0 0 1 48.51969 167 Tm (Chatbots) Tj T* ET
+BT 1 0 0 1 6 149 Tm (2) Tj T* ET
+BT 1 0 0 1 48.51969 149 Tm (Recommendation Systems) Tj T* ET
+BT 1 0 0 1 6 131 Tm (3) Tj T* ET
+BT 1 0 0 1 48.51969 131 Tm (Image Recognition) Tj T* ET
+BT 1 0 0 1 6 113 Tm (4) Tj T* ET
+BT 1 0 0 1 48.51969 113 Tm (Sentiment Analysis) Tj T* ET
+BT 1 0 0 1 6 95 Tm (5) Tj T* ET
+BT 1 0 0 1 48.51969 95 Tm (Fraud Detection) Tj T* ET
+BT 1 0 0 1 6 77 Tm (6) Tj T* ET
+BT 1 0 0 1 48.51969 77 Tm (Voice Recognition) Tj T* ET
+BT 1 0 0 1 6 59 Tm (7) Tj T* ET
+BT 1 0 0 1 48.51969 59 Tm (Personalised Content) Tj T* ET
+BT 1 0 0 1 6 41 Tm (8) Tj T* ET
+BT 1 0 0 1 48.51969 41 Tm (Predictive Analytics) Tj T* ET
+BT 1 0 0 1 6 23 Tm (9) Tj T* ET
+BT 1 0 0 1 48.51969 23 Tm (Spam Detection) Tj T* ET
+BT 1 0 0 1 6 5 Tm (10) Tj T* ET
+BT 1 0 0 1 48.51969 5 Tm (Intelligent Search) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 201 m 439.3701 201 l S
+n 0 0 m 439.3701 0 l S
+n 0 0 m 0 201 l S
+n 439.3701 0 m 439.3701 201 l S
+n 0 180 m 439.3701 180 l S
+n 0 162 m 439.3701 162 l S
+n 0 144 m 439.3701 144 l S
+n 0 126 m 439.3701 126 l S
+n 0 108 m 439.3701 108 l S
+n 0 90 m 439.3701 90 l S
+n 0 72 m 439.3701 72 l S
+n 0 54 m 439.3701 54 l S
+n 0 36 m 439.3701 36 l S
+n 0 18 m 439.3701 18 l S
+n 42.51969 0 m 42.51969 201 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 518.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Project Selected: Image Recognition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 464.5433 cm
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F2 10 Tf 0 0 0 rg (Why we chose this project:) Tj /F1 10 Tf ( Image Recognition is one of the most widely used deep learning) Tj T* (applications in modern web development. It solves real-world problems by automatically identifying) Tj T* (objects, faces and scenes from images. It has applications in healthcare, e-commerce, agriculture,) Tj T* (security and smart cities, making it an excellent academic project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 434.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Advantages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 356.5433 cm
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F1 10 Tf 0 0 0 rg (\177 High accuracy in image classification.) Tj  T* (\177 Reduces manual effort through automation.) Tj  T* (\177 Improves user experience with visual search.) Tj  T* (\177 Supports real-time decision making.) Tj  T* (\177 Enhances security using facial recognition.) Tj  T* (\177 Scalable for cloud-based web applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 326.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Technologies Linked with Deep Learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 248.5433 cm
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F1 10 Tf 0 0 0 rg (Frontend: HTML, CSS, JavaScript, React) Tj  T* (Backend: Python, Flask/Django or Node.js) Tj  T* (Deep Learning: TensorFlow, Keras, PyTorch, CNN) Tj  T* (Database: MySQL or MongoDB) Tj  T* (Cloud: AWS, Google Cloud or Azure) Tj  T* (Version Control: Git & GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 218.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Workflow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 188.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (User uploads an image ) Tj /F3 10 Tf 12 TL (\256) Tj /F1 10 Tf 12 TL ( Frontend sends it to the backend ) Tj /F3 10 Tf 12 TL (\256) Tj /F1 10 Tf 12 TL ( CNN model processes the image ) Tj /F3 10 Tf 12 TL (\256) Tj /F1 10 Tf 12 TL T* (Prediction is generated ) Tj /F3 10 Tf 12 TL (\256) Tj /F1 10 Tf 12 TL ( Result is displayed on the web application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 158.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 116.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Image Recognition combines deep learning with full stack web technologies to build intelligent) Tj T* (applications. It offers automation, accuracy and practical value across multiple industries, making it) Tj T* (a suitable project for learning and deployment.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 18 Tf
+21.6 TL
+ET
+BT
+1 0 0 1 229.6338 810 Tm
+(ASSIGNMENT\0551) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000428 00000 n 
+0000004999 00000 n 
+0000005106 00000 n 
+0000005213 00000 n 
+0000005325 00000 n 
+0000005437 00000 n 
+trailer
+<<
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+5515
+%%EOF
